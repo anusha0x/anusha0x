@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha Anu Prasad</h1>
 <h3 align="center">B.Tech IT Student | Full Stack Developer | ML Enthusiast</h3>
 
-- 🌱 I’m currently completing my **Full Stack Web Development** course and building projects in **Machine Learning**[cite: 1, 2].
+- 🌱 I’m currently completing my **Full Stack Web Development** course and building projects in **Machine Learning**.
 - 🚀 Recent Project: **Banking Transaction & Fraud Monitor** using Python, Redis, and Celery.
 - 📫 Reach me at: **prasadanushaanu@gmail.com**.
 
